@@ -17,7 +17,7 @@ Você deverá criar uma apresentação que explique qualquer um dos seguintes t�
 - images and media: Images, Thumbnails, Media objects
 - Alerting Users: Labels, Badges, Alerts, Progress Bars
 - Tabs, Pills and Tabbed Navigation
-- Hide and Seek: Collapse, Accordion, Scrollspy and Affix
+- **Hide and Seek: Collapse, Accordion, Scrollspy and Affix -- Augusto, Ariel e Henzo**
 - **Revealing Content: Tooltips, Popovers and Modals -- Alan, Gabriel e Luiz**
 - **Carousel -- Ilmer, Marcelo e Lucas**
 
