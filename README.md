@@ -18,8 +18,8 @@ Você deverá criar uma apresentação que explique qualquer um dos seguintes t�
 - Alerting Users: Labels, Badges, Alerts, Progress Bars
 - Tabs, Pills and Tabbed Navigation
 - Hide and Seek: Collapse, Accordion, Scrollspy and Affix
-- Revealing Content: Tooltips, Popovers and Modals
-- Carousel
+- **Revealing Content: Tooltips, Popovers and Modals -- Alan, Gabriel e Luiz**
+- **Carousel -- Ilmer, Marcelo e Lucas**
 
 Sua apresentação deverá ter, obrigatóriamente:
 
