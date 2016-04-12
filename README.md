@@ -17,9 +17,9 @@ Você deverá criar uma apresentação que explique qualquer um dos seguintes t�
 - images and media: Images, Thumbnails, Media objects
 - Alerting Users: Labels, Badges, Alerts, Progress Bars
 - Tabs, Pills and Tabbed Navigation
-- **Hide and Seek: Collapse, Accordion, Scrollspy and Affix -- Augusto, Ariel e Henzo**
-- **Revealing Content: Tooltips, Popovers and Modals -- Alan, Gabriel e Luiz**
-- **Carousel -- Ilmer, Marcelo e Lucas**
+- **Hide and Seek: Collapse, Accordion, Scrollspy and Affix -- Augusto, Ariel e Henzo** ([Slides](http://asantos07.github.io/seminario-Bootstrap_Hide-and-Seek/) -- [Exercícios](https://github.com/asantos07/seminario-Bootstrap_Hide-and-Seek))
+- **Revealing Content: Tooltips, Popovers and Modals -- Alan, Gabriel e Luiz** ([Exercícios](https://github.com/abmBispo/trabalhoDeDAW-Bootstrap))
+- **Carousel -- Ilmer, Marcelo e Lucas** ([Slides](http://prezi.com/logcc8wmhnqw/?utm_campaign=share&utm_medium=copy) -- [Exercícios](https://github.com/LucasWander/Semin-rios-Bootstrap---Exercicios-sobre-Carousel))
 
 Sua apresentação deverá ter, obrigatóriamente:
 
